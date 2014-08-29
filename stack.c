@@ -6,7 +6,7 @@
  *		   v	(int)
  * outputs: 
  * Adds the item v at the top of the named stack and increments the 
- * pointer to the top of the stack.
+ * pointer to the top of the stack. 
       	 		  id
 	  		    |_____|	4
 		      	|_____|	3
